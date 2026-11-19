@@ -1,0 +1,2 @@
+/* SB POC widget 22244: hide completed Redford tiles only. */
+li.activity.activity-completed:is(.ct-activity-410265067,.ct-activity-410265068,.ct-activity-410265048,.ct-activity-410265049,.ct-activity-410265069){display:none!important}
